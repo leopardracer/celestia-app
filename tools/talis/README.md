@@ -4,7 +4,7 @@
 
 ### DigitalOcean Account
 
-- If you're part of the Celestia engineering team ask for access to Celestia's DigitalOcean account or alternatively use personal account.
+- If you're part of the Celestia engineering team ask for access to Celestia's DigitalOcean account or alternatively use a personal account.
 - **Generate the API token:** Go to Settings → API → Generate New Token.
 - Save the token somewhere that's easily accessible.
 
